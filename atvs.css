@@ -1,44 +1,48 @@
-.note {
-	animation-name: note;
-	animation-duration: 4s;
-	animation-iteration-count: infinite;
-	background-color: #FF0000;
-	border-radius: 5px;
-	margin: 20px 0;
-	padding: 15px 30px;
-	color: #fff;
-	border: none;
-	font-size: 20px;
-	font-family: 'Montserrat';
+body {
+    font-family: 'Monterrat';
+    font-size: 22px;
 }
 
-@keyframes note {
-	0% {background-color: red;}
-	50% {background-color: green;}
-	100% {background-color: blue;}
-}
-
-p, h2, h1 {
-	font-family: 'Montserrat';
-}
-
-.Type {
+.stream {
     text-align: center;
-    background-color: rgb(117,17,17);
+    background-color: #29B8EB;
 	font-family: 'Montserrat';
     color: white;
     margin: 30px;
 	border-radius: 20px;
 	
 }
-.atv {
+
+.coding {
 	text-align: center;
-	background-color: #33A7FF;
+	background-color: #9AB000;
 	font-family: 'Montserrat';
 	color: white;
 	margin: 30px;
 	border-radius: 20px;
 }
+
+.fix {
+	text-align: center;
+	background-color: #5A307E;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+.video {
+	text-align: center;
+	background-color: rgb(169,173,139);
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+p {
+	text-align: center;
+	font-family: 'Montserrat';
+}
+
 img {
 	display: block;
 	margin-left: auto;

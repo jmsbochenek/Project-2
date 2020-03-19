@@ -5,7 +5,7 @@ body {
 
 .stream {
     text-align: center;
-    background-color: #FF686A;
+    background-color: #29B8EB;
 	font-family: 'Montserrat';
     color: white;
     margin: 30px;
@@ -15,7 +15,7 @@ body {
 
 .coding {
 	text-align: center;
-	background-color: #6B87F1;
+	background-color: #9AB000;
 	font-family: 'Montserrat';
 	color: white;
 	margin: 30px;
@@ -32,7 +32,7 @@ body {
 }
 .video {
 	text-align: center;
-	background-color: rgb(255,0,0);
+	background-color: rgb(169,173,139);
 	font-family: 'Montserrat';
 	color: white;
 	margin: 30px;
