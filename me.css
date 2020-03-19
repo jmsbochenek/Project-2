@@ -1,0 +1,58 @@
+body {
+    font-family: 'Monterrat';
+    font-size: 22px;
+}
+
+.stream {
+    text-align: center;
+    background-color: #FF686A;
+	font-family: 'Montserrat';
+    color: white;
+    margin: 30px;
+	border-radius: 20px;
+	
+}
+
+.coding {
+	text-align: center;
+	background-color: #6B87F1;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+
+.fix {
+	text-align: center;
+	background-color: #5A307E;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+.video {
+	text-align: center;
+	background-color: rgb(255,0,0);
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+p {
+	text-align: center;
+	font-family: 'Montserrat';
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
