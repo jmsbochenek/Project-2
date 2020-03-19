@@ -1,0 +1,54 @@
+.note {
+	animation-name: note;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	background-color: #F59D9E;
+	border-radius: 5px;
+	margin: 20px 0;
+	padding: 15px 30px;
+	color: #fff;
+	border: none;
+	font-size: 20px;
+	font-family: 'Montserrat';
+}
+/* A CSS for Note animation */
+@keyframes note {
+	0% {background-color: red;}
+	50% {background-color: green;}
+	100% {background-color: blue;}
+}
+
+p, h2, h1 {
+	font-family: 'Montserrat';
+}
+
+.Type {
+    text-align: center;
+    background-color: rgb(255,0,0);
+	font-family: 'Montserrat';
+    color: white;
+    margin: 30px;
+	border-radius: 20px;
+	
+}
+.game {
+	text-align: center;
+	background-color: #0084FF;
+	font-family: 'Montserrat';
+	color: white;
+	margin: 30px;
+	border-radius: 20px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
